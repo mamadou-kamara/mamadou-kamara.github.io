@@ -1,2 +1,15 @@
-# mamadou-kamara.github.io
-Portfolio Data Analyst — Mamadou Kamara Portfolio interactif présentant mes projets en data analytics, business intelligence et healthcare analytics. Construit avec HTML/CSS/JS vanilla et hébergé sur GitHub Pages.
+# 👋 Bonjour, je suis Mamadou Kamara
+
+**Data Analyst** spécialisé en Healthcare Analytics & Business Intelligence.
+
+## 🔗 Portfolio en ligne
+👉 [https://mamadou-kamara.github.io
+
+## 📊 Projets présentés
+- 🏥 Hospital Finance Analysis
+- 📊 Healthcare Business Intelligence
+- 👥 HR Analytics — Employee Attrition
+- 🤝 Volunteer Platforms Analysis
+
+## 🛠️ Stack
+Python · SQL · PostgreSQL · Streamlit · Metabase · Pandas - Power Bi
